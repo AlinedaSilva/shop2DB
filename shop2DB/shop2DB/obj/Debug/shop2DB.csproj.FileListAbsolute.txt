@@ -1,0 +1,30 @@
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\shop2DB.exe.config
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\shop2DB.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\shop2DB.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\EntityFramework.dll
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\EntityFramework.xml
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\obj\Debug\shop2DB.csprojResolveAssemblyReference.cache
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\obj\Debug\shop2DB.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2 DB\shop2DB\shop2DB\obj\Debug\shop2DB.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\Not used\shop2DB\shop2DB\bin\Debug\shop2DB.exe.config
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\Not used\shop2DB\shop2DB\obj\Debug\shop2DB.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\Not used\shop2DB\shop2DB\obj\Debug\shop2DB.pdb
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\shop2DB.exe.config
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\shop2DB.exe
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\shop2DB.pdb
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\EntityFramework.dll
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\EntityFramework.SqlServer.dll
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\EntityFramework.xml
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\bin\Debug\EntityFramework.SqlServer.xml
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\obj\Debug\shop2DB.csprojResolveAssemblyReference.cache
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\obj\Debug\shop2DB.csproj.CoreCompileInputs.cache
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\obj\Debug\shop2DB.exe
+\\COMPHOME\homedir$\x00135202\Desktop\2018\shop2DB\shop2DB\obj\Debug\shop2DB.pdb
+D:\2018\shop2DB\shop2DB\bin\Debug\shop2DB.exe.config
+D:\2018\shop2DB\shop2DB\obj\Debug\shop2DB.exe
+D:\2018\shop2DB\shop2DB\obj\Debug\shop2DB.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2DB\shop2DB\shop2DB\bin\Debug\shop2DB.exe.config
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2DB\shop2DB\shop2DB\obj\Debug\shop2DB.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\EAD\MyShop - CA2DB\shop2DB\shop2DB\obj\Debug\shop2DB.pdb
